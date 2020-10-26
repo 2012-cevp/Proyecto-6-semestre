@@ -1,1 +1,69 @@
-/* You can add global styles to this file, and also import other style files */
+
+body {
+  background-color: whitesmoke;
+
+}
+
+html {
+  font-size: 13px;
+}
+
+
+
+
+
+
+.active {
+  color:white;
+  font-weight: 620;
+}
+
+.mt-n1 {
+  margin-top: -1.2rem !important;
+}
+
+
+
+
+.colorNavbar2 {
+  
+  background-color: #333;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;  
+  left: 0;
+  color: white;
+}
+
+.colorName3:hover {
+ background-color: rgba(0, 0, 0, 0.3);
+ margin: 30;
+ 
+ padding: 20;
+}
+
+.colorName4 {
+  color: white !important;
+  
+}
+
+
+.margin5 {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+
+.cursor7 {
+  cursor: pointer;
+}
+
+
+.colorNegro16 {
+  /* En producción dejadlo transparente */
+  color: yellow;
+}
